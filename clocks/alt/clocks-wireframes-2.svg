@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="clocks-wireframes-2.svg"
-   inkscape:export-filename="/home/aday/checkout/gnome-mockups/clocks/alt/clocks-wireframes-2.png"
+   inkscape:export-filename="/home/lasse_backup/prog/gnome-mockups/clocks/alt/clocks-wireframes-2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -423,9 +423,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="306.26286"
-     inkscape:cy="1525.6491"
+     inkscape:zoom="0.5"
+     inkscape:cx="1848.4703"
+     inkscape:cy="1296.8887"
      inkscape:document-units="px"
      inkscape:current-layer="g6262"
      showgrid="false"
@@ -434,7 +434,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="1680"
-     inkscape:window-y="561"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -455,7 +455,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2962,7 +2962,7 @@
          id="tspan18783"
          sodipodi:role="line"
          x="825.57275"
-         y="-957.84985">+8</tspan></text>
+         y="-957.84985">8 hours ahead</tspan></text>
     <path
        style="color:#000000;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 387.5,-1217.1378 96,0 0,3 0,27 0,3 -96,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-27 c 0,-1.662 1.338,-3 3,-3 z"
@@ -3010,7 +3010,7 @@
            y="-977.84985"
            x="3832.5029"
            sodipodi:role="line"
-           id="tspan18761">-5</tspan></text>
+           id="tspan18761">5 hours behind</tspan></text>
       <text
          sodipodi:linespacing="130%"
          id="text18765"
@@ -3418,7 +3418,7 @@
          y="244.15015"
          x="825.57275"
          sodipodi:role="line"
-         id="tspan26437">+8</tspan></text>
+         id="tspan26437">8 hours ahead</tspan></text>
     <path
        sodipodi:nodetypes="sccccssss"
        inkscape:connector-curvature="0"
@@ -3603,7 +3603,7 @@
            id="tspan26690"
            sodipodi:role="line"
            x="3832.5029"
-           y="-971.84985">-5</tspan></text>
+           y="-971.84985">5 hours behind</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -8830,7 +8830,7 @@
          y="-1517.8499"
          x="408.08237"
          sodipodi:role="line"
-         id="tspan35060">-5</tspan></text>
+         id="tspan35060">5 hours behind</tspan></text>
     <text
        sodipodi:linespacing="130%"
        id="text35062"
@@ -9675,7 +9675,7 @@
          id="tspan18783-9"
          sodipodi:role="line"
          x="825.57275"
-         y="-380.95593">+8</tspan></text>
+         y="-380.95593">8 hours ahead</tspan></text>
     <path
        style="color:#000000;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 387.5,-640.24385 96,0 0,3 0,27 0,3 -96,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-27 c 0,-1.662 1.338,-3 3,-3 z"
@@ -9724,7 +9724,7 @@
            y="-977.84985"
            x="3832.5029"
            sodipodi:role="line"
-           id="tspan18761-3">-5</tspan></text>
+           id="tspan18761-3">5 hours behind</tspan></text>
       <text
          sodipodi:linespacing="130%"
          id="text18765-3"
